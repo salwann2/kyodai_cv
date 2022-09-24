@@ -1,0 +1,35 @@
+.pp1 {
+    margin-left: 5%;
+}
+
+.Gauche {
+    /*border: 2px solid blue;*/
+    width: 400px;
+    padding: 4px;
+}
+
+.Droite {
+    border: 2px solid lightskyblue;
+    height: auto;
+    width: 400px;
+    margin-left: 31%;
+    position: relative;
+    bottom: 712px;
+    background-color: lightskyblue;
+    border-radius: 5px;
+}
+
+.m1 {
+    font-weight: bolder;
+    font-size: 200%;
+}
+
+.m2 {
+    border: 2px solid white;
+    background-color: white;
+    margin-top: 40px;
+}
+
+.A {
+    background-image: url("images/cv1.png");
+}
